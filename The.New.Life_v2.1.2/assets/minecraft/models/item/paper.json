@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": "copper_upgrade",
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/copper_upgrade"
+        }
+      }
+    },
+    {
+      "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": "iron_upgrade",
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_upgrade"
+        }
+      }
+    },
+    {
+      "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": "diamond_upgrade",
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_upgrade"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+RANK UNICODE MAPPING
+==================
+Pack: The New Life Textures
+Author: The New Life
+Generated: 6/9/2025, 12:03:43 PM
+
+Filename		Unicode Character	Unicode Hex
+--------		-----------------	-----------
+nautical_discord_rank						U+E000
+
+
+How to use:
+Copy the Unicode Character and paste it in your text/signs/books in Minecraft.
+The corresponding rank image will appear in place of the character.

@@ -1,0 +1,29 @@
+{
+    "pack": {
+        "min_format": [69, 0],
+        "max_format": [2147483647, 0],
+        "description": [
+            "",
+            {
+                "text": "The New Life Textures",
+                "bold": true,
+                "color": "#E54040"
+            },
+            {
+                "text": "",
+                "color": "#E54040"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "Created by",
+                "color": "#f7d200"
+            },
+            {
+                "text": " The New Life",
+                "color": "#4068E5"
+            }
+        ]
+    }
+}
